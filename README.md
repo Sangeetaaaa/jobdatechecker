@@ -59,7 +59,7 @@ If a website doesn't expose the posting date in its structured data, nothing is 
 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/job-posted-date-checker.git
+git clone https://github.com/Sangeetaaaa/jobdatechecker.git
 ```
 
 2. Open Chrome
