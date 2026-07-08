@@ -5,7 +5,7 @@ Many job boards hide the actual **posting date** of a job, even though the infor
 This Chrome extension reveals the hidden **Date Posted** directly on the job page, helping you avoid spending time applying to stale or outdated job listings.
 
 <p align="center">
-  <img src="images/image1.png" alt="Extension Screenshot" width="500">
+  <img src="images/image1.png" alt="Extension Screenshot" width="700">
 </p>
 ---
 
@@ -21,7 +21,9 @@ This Chrome extension reveals the hidden **Date Posted** directly on the job pag
 
 ## Why?
 
-![Extension Screenshot](images/image1.png)
+<p align="center">
+  <img src="images/image2.png" alt="Extension Screenshot" width="700">
+</p>
 
 Many job boards display vague labels like:
 
