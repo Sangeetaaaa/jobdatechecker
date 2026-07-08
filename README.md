@@ -22,7 +22,7 @@ This Chrome extension reveals the hidden **Date Posted** directly on the job pag
 ## Why?
 
 <p align="center">
-  <img src="images/image2.png" alt="Extension Screenshot" width="700">
+  <img src="images/image2.png" alt="Extension Screenshot" width="400">
 </p>
 
 Many job boards display vague labels like:
